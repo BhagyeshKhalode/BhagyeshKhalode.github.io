@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.f58e185f.css",
-    "main.js": "/static/js/main.01ad1201.js",
+    "main.js": "/static/js/main.47dca857.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Bhagyesh_Khalode_resume.pdf": "/static/media/Bhagyesh_Khalode_resume.cf6e1f2174f30aeadac2.pdf",
     "static/media/tree-image.jpg": "/static/media/tree-image.b545e66edc88c456b3b4.jpg",
     "index.html": "/index.html",
     "main.f58e185f.css.map": "/static/css/main.f58e185f.css.map",
-    "main.01ad1201.js.map": "/static/js/main.01ad1201.js.map",
+    "main.47dca857.js.map": "/static/js/main.47dca857.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f58e185f.css",
-    "static/js/main.01ad1201.js"
+    "static/js/main.47dca857.js"
   ]
 }
