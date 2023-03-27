@@ -36,8 +36,10 @@ const Header = () => {
                     <h1 className="animate__animated animate__fadeInDown hero-title"><span style={{color: greetingTextColor}}>{greetingText}</span>,<br />I'm Bhagyesh!</h1>
                     <h1 className="animate__animated animate__fadeInDown hero-title"><span style={{color: greetingTextColor}}></span><div style={{fontSize: "30px"}} >Full Stack Web Developer</div></h1>
                     <h2 className="animate__animated animate__fadeInRight hero-date"><span id="date">{currentDate}</span></h2>
-                    <a type="button" className="resume-btn" href={file} download rel="noreferrer">Resume <i
-                    className="fa-solid fa-square-arrow-up-right"></i></a>
+                    <a type="button" id="resume-link-2" className="resume-btn" href={file} download rel="noreferrer">
+                        Resume 
+                        <i className="fa-solid fa-square-arrow-up-right"></i>
+                    </a>
                 </div>
                 <a className="down-arrow" href="#about-section" aria-label="down-arrow"><i
                     className="fa-solid fa-angle-down animate__animated animate__fadeInDown"></i></a>
