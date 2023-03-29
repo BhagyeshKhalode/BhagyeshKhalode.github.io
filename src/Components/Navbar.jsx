@@ -45,7 +45,7 @@ let Navbar = () => {
                             <li className="nav-item" class="nav-link resume">
                                 <a className="nav-link"
                                   id="resume-link-1"
-                                 href="https://drive.google.com/file/d/1wLKSqsMPdEiT2pu2W3PvENyISGSuTtwj/view?usp=share_link"  target="blank">Resume</a>
+                                 href="https://drive.google.com/file/d/15-l2o6udI23a_joSC8eFa870yEtpA0q7/view?usp=sharing"  target="blank">Resume</a>
                             </li>
                         </ul>
                     </div>
