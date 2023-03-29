@@ -42,11 +42,11 @@ let Navbar = () => {
                             <li className="nav-item" class="nav-link contact">
                                 <a className="nav-link"  href="#contact-section">Contact</a>
                             </li>
-                            {/* <li className="nav-item" class="nav-link resume">
+                            <li className="nav-item" class="nav-link resume">
                                 <a className="nav-link"
                                   id="resume-link-1"
                                  href="https://drive.google.com/file/d/15-l2o6udI23a_joSC8eFa870yEtpA0q7/view?usp=sharing"  target="blank">Resume</a>
-                            </li> */}
+                            </li>
                         </ul>
                     </div>
                 </div>
